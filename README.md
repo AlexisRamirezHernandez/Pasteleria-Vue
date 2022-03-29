@@ -1,7 +1,7 @@
 # pasteleria-vue
 # Link en produccion: https://gentle-bay-0901bfb0f.1.azurestaticapps.net/#/index
 ![image](https://user-images.githubusercontent.com/37453654/160510169-2a3450c1-4a03-4136-bae6-bb1c0c3d2651.png)
-
+Fase Beta: Aun se siguen revisando detalles.
 ## Project setup
 ```
 npm install
